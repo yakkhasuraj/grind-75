@@ -7,7 +7,7 @@
  * 4. boolean empty() Returns true if the queue is empty, false otherwise.
  */
 
-// Amortized time complexity O(1)
+// Amortized time complexity O(1) and O(n) space complexity
 function MyQueue() {
   this.stack1 = [];
   this.stack2 = [];

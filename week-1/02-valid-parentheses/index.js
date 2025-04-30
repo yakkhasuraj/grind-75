@@ -6,6 +6,7 @@
  * Every close bracket has a corresponding open bracket of the same type.
  */
 
+// O(n) time complexity and O(n) space complexity
 /**
  * @param {string} s
  * @return {boolean}

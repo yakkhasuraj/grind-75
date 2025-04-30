@@ -9,6 +9,7 @@ function TreeNode(val) {
   this.left = this.right = null;
 }
 
+// O(n) time complexity and O(1) space complexity
 /**
  * @param {TreeNode} root
  * @param {TreeNode} p
